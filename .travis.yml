@@ -1,0 +1,19 @@
+language: node_js
+
+node_js:
+  - "10"
+
+# Install dependencies
+before_script:
+  - npm install -g gatsby-cli
+
+script:
+  - yarn install
+  - yarn run build
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local-dir: public
+  github-token: $GITHUB_TOKEN
