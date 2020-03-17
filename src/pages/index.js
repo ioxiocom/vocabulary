@@ -9,7 +9,7 @@ const IndexPage = () => (
         <SEO title="Life Engine vocabulary"/>
         <h1>Life Engine vocabulary</h1>
         <ul>
-            <li><Link to="/weather/">Weather vocabulary</Link></li>
+            <li><Link to="/Weather/">Weather vocabulary</Link></li>
         </ul>
     </Layout>
 )
