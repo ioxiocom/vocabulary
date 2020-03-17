@@ -10,6 +10,7 @@ before_script:
 script:
   - yarn install
   - yarn run build
+  - echo "vocabulary.lifeengine.io" > public/CNAME
 
 # Deploy to GitHub pages
 deploy:
