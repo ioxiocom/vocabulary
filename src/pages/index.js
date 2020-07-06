@@ -10,6 +10,8 @@ const IndexPage = () => (
         <h1>Life Engine vocabulary</h1>
         <ul>
             <li><Link to="/Weather/">Weather vocabulary</Link></li>
+            <li><Link to="/Business/">Business vocabulary</Link></li>
+            <li><Link to="/Legislation/">Legislation vocabulary</Link></li>
         </ul>
     </Layout>
 )
