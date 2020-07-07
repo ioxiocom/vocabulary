@@ -7,7 +7,7 @@ const Business = () => (
     <Layout>
         <SEO title="Business vocabulary" />
         <h1>Life Engine vocabulary - Business</h1>
-            <a name={"RegistrationDate"}><h2>RegistrationDate</h2></a>
+            <a name={"registrationDate"}><h2>Registration Date</h2></a>
             <p>Date of registration of the company</p>
     </Layout>
 )
