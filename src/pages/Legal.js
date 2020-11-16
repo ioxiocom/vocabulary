@@ -2,10 +2,10 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const Legislation = () => (
+const Legal = () => (
   <Layout>
-    <SEO title={"Legislation vocabulary"} />
-    <h1>Life Engine vocabulary - Legislation</h1>
+    <SEO title={"Legal vocabulary"} />
+    <h1>Life Engine vocabulary - Legal</h1>
     <a name={"attribution"}>
       <h2>Attribution</h2>
     </a>
@@ -17,4 +17,4 @@ const Legislation = () => (
   </Layout>
 )
 
-export default Legislation
+export default Legal
