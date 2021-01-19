@@ -31,6 +31,10 @@ const Business = () => (
       of shares, you can add any number of share series. The number of shares in
       all the series cannot exceed the number of shares in the class.
     </p>
+  <a name={"incoterm"}>
+      <h2>Incoterm</h2>
+    </a>
+    <p>International commerce terms that the buyer and seller use in international and domestic trade defined by the International Chamber of Commerce</p>
   </Layout>
 )
 
