@@ -14,6 +14,10 @@ const Legal = () => (
       <h2>Name</h2>
     </a>
     <p>Legal name of a company or first name and last name of a person.</p>
+  <a name={"statement"}>
+      <h2>Statement</h2>
+    </a>
+    <p>A legally binding textual statement of a certain matter.</p>
   </Layout>
 )
 
