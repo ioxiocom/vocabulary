@@ -18,7 +18,7 @@ const Finance = () => (
     <a name={"instituteClauses"}>
       <h2>Institute clauses</h2>
     </a>
-    <p>Type of clauses to specify which damages of isured items are covered and not covered by the insurer.</p>
+    <p>Type of clauses to specify which damages of insured items are covered and not covered by the insurer.</p>
     <a name={"letterOfCreditValue"}>
       <h2>Letter of credit value</h2>
     </a>
