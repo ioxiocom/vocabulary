@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 const Measures = () => (
   <Layout>
     <SEO title="Measures vocabulary" />
-    <h1>Life Engine vocabulary - Weather</h1>
+    <h1>Life Engine vocabulary - Measures</h1>
     <a name={"length"}>
       <h2>Lenght</h2>
     </a>
