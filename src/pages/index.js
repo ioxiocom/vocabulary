@@ -16,7 +16,16 @@ const IndexPage = () => (
         <Link to="/Business/">Business vocabulary</Link>
       </li>
       <li>
-        <Link to="/Legislation/">Legislation vocabulary</Link>
+        <Link to="/Legal/">Legal vocabulary</Link>
+      </li>
+      <li>
+        <Link to="/Finance/">Finance vocabulary</Link>
+      </li>
+    <li>
+        <Link to="/Product/">Product vocabulary</Link>
+      </li>
+     <li>
+        <Link to="/Measurement/">Measurement vocabulary</Link>
       </li>
     </ul>
   </Layout>
