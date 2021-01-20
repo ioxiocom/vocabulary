@@ -25,7 +25,7 @@ const IndexPage = () => (
         <Link to="/Product/">Product vocabulary</Link>
       </li>
      <li>
-        <Link to="/Measures/">Measures vocabulary</Link>
+        <Link to="/Measurement/">Measurement vocabulary</Link>
       </li>
     </ul>
   </Layout>
