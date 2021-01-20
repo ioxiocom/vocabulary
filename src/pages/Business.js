@@ -34,7 +34,7 @@ const Business = () => (
   <a name={"incoterm"}>
       <h2>Incoterm</h2>
     </a>
-    <p>International commerce terms that the buyer and seller use in international and domestic trade defined by the International Chamber of Commerce</p>
+    <p>International commerce terms that the buyer and seller use in international and domestic trade defined by the International Chamber of Commerce.</p>
   </Layout>
 )
 
