@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const Measures = () => (
+const Measurement = () => (
   <Layout>
     <SEO title="Measurement vocabulary" />
     <h1>Life Engine vocabulary - Measurements</h1>
